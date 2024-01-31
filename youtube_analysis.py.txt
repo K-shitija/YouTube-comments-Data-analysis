@@ -1,8 +1,0 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 25 12:38:54 2024
-
-@author: KSHITIJA
-"""
-
-print("hii" )
